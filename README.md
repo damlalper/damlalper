@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi, I'm Damlalper</h1>
+<h1 align="left">Hi, I'm Damla</h1>
 
 <a href="[https://linkedin.com/in/damlalper](https://www.linkedin.com/in/damla-nur-alper-225a1730b/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
