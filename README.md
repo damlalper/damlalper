@@ -57,7 +57,7 @@ A debugging competition project where I analyzed, fixed, and optimized a complex
 - Improved code quality and modular structure  
 - Enhanced app stability and test coverage
 
-**Tech Stack:** JavaScript, React, Node.js, Express, Debugging, Testing
+**Tech Stack:** C#, .NET, Node.js, Express, Debugging, Testing, SOLID Principles
 
 
 ---
