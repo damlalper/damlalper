@@ -96,24 +96,13 @@ A debugging competition project where I analyzed, fixed, and optimized a complex
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damlalper&show_icons=true&theme=tokyonight&hide_border=true&t=1" alt="Damla Alper's GitHub Stats" />
-</p>
---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damlalper&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=damlalper&theme=tokyonight&hide_border=true&t=1" alt="Damla Alper's Streak Stats" />
-</p>
---
+![Streak Stats](https://streak-stats.demolab.com?user=damlalper&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damlalper&layout=compact&theme=tokyonight&hide_border=true&t=1" alt="Damla Alper's Top Languages" />
-</p>
---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damlalper&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damlalper&theme=tokyo-night&hide_border=true" alt="Damla Alper's Activity Graph" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=damlalper&theme=tokyo-night)
 
 
 ---
