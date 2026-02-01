@@ -96,13 +96,6 @@ A debugging competition project where I analyzed, fixed, and optimized a complex
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damlalper&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=damlalper&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damlalper&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages" />
@@ -121,3 +114,13 @@ A debugging competition project where I analyzed, fixed, and optimized a complex
 - Explainable machine learning & hybrid AI systems  
 - Full production-ready pipelines with monitoring
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damlalper&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=damlalper&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
