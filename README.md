@@ -1,81 +1,115 @@
-## Hi there 👋
-    
-<!--
-**damlalper/damlalper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi, I'm Damla 👋</h1>
 
-Here are some ideas to get you started:
+<p align="left">
+Computer Engineering Student & Full-Stack/AI Developer building real-world intelligent systems. 💡  
+I build scalable backends, AI-driven decision engines, and embedded solutions that solve real problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="left">Hi, I'm Damla</h1>
-
-<a href="[https://linkedin.com/in/damlalper](https://www.linkedin.com/in/damla-nur-alper-225a1730b/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/damla-nur-alper-225a1730b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+---
 
-## My Projects
-
-### Health Chatbot – Medical PDF Analyzer
-
-[GitHub Repo](https://github.com/damlalper/health-chatbot)
-
-<img src="https://github.com/damlalper/assets/health-chatbot.png" width="100%"/>
-
-**Health Chatbot** analyzes medical PDF reports and provides insights using AI models. Users can upload PDFs, and the system extracts key information, returning a structured, easy-to-understand summary.
+## 🚀 Featured Projects
 
 ---
 
-### Thanos Cosmic Hunt – AI Simulation Game
+### 🧠 **AI Fraud Detection Platform**  
+🔗 https://github.com/damlalper/fraud-detection-ai
 
-[GitHub Repo](https://github.com/damlalper/thanos-cosmic-hunt)
+A full-pipeline FinTech fraud detection system with **explainable AI** and real-time scoring. Designed to detect anomalous financial transactions and support compliance explanations using **SHAP** & **LLMs**.
 
-<img src="https://github.com/damlalper/assets/thanos-cosmic-hunt.png" width="100%"/>
+**Highlights**
+- Real-time scoring API with **FastAPI** + **XGBoost** backend server  
+- Model performance: **~97% ROC-AUC** on benchmark datasets  
+- Explainable AI outputs using **SHAP TreeExplainer**  
+- RAG-enhanced policy retrieval layer for human-readable context  
+- Modern frontend demo built with **Next.js + Tailwind CSS**  
+- Deployment templates for AWS ECS + CI/CD automation
 
-**Thanos Cosmic Hunt** is a simulation where an AI-driven Thanos character navigates planets to find Infinity Stones using memory and decision algorithms. Built with FastAPI backend and React-Three.js frontend.
+**Tech Stack:** Python, FastAPI, XGBoost, PyTorch, SHAP, Next.js, Docker, AWS
 
 ---
 
-### Parking Management System – Smart Lot
+### 👁️‍🗨️ **ReaRead – Eye Tracking & Reading Behavior Analysis**  
+🔗 https://github.com/damlalper/rearead-eyetracking/tree/pre-submission-improvements
 
-[GitHub Repo](https://github.com/damlalper/parking-system)
+A research-oriented eye-tracking platform exploring **reading dynamics** and gaze patterns. Built in preparation for academic submission with performance improvements and refined data processing.
 
-<img src="https://github.com/damlalper/assets/parking-system.png" width="100%"/>
+**Highlights**
+- Eye gaze data capture & feature extraction  
+- Real-time visualization of eye movement behavior  
+- Pre-submission enhancements for performance, accuracy, and UX  
+- Integrates machine learning-ready datasets for research use
 
-**Parking Management System** optimizes parking space usage with smart sensors and web dashboard. Users can track availability and get notifications in real-time.
+**Tech Stack:** Python, OpenCV, data processing pipelines, frontend visualization
 
-## About Me
+---
 
-- Creating web and AI projects since 2022  
-- Currently exploring Go, React, DynamoDB  
-- Goal: Build interactive, AI-driven applications  
-- Previously coded with Python, Arduino & RISC-V
+### 📚 **CourseApp – Bug Hunting & Fixing Challenge (2nd Place)**  
+🔗 https://github.com/damlalper/CourseApp-Debugging
 
-## Tools I Use
+A debugging competition project where I analyzed, fixed, and optimized a complex full-stack course management app — earning **2nd place** 🥈.
+
+**Key Contributions**
+- Identified critical logic bugs and race conditions  
+- Improved code quality and modular structure  
+- Enhanced app stability and test coverage
+
+**Tech Stack:** JavaScript, React, Node.js, Express, Debugging, Testing
+
+
+---
+
+## 🧠 About Me
+
+- Building backend and AI systems since **2022**  
+- Strong interest in **scalable architectures**, **explainable AI**, and **real-time APIs**  
+- Experienced in both **embedded systems (ESP32)** and **full-stack applications**
+
+---
+
+## 🧰 Tools I Use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
-## GitHub Streak
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=damlalper&theme=blueberry_duo" />
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=damlalper&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=damlalper&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damlalper&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=damlalper&theme=tokyo-night&hide_border=true" />
+
+
+---
+
+## 🎯 What I’m Exploring
+
+- Scalable Cloud APIs & serverless deployments  
+- Explainable machine learning & hybrid AI systems  
+- Full production-ready pipelines with monitoring
 
