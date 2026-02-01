@@ -94,17 +94,19 @@ A debugging competition project where I analyzed, fixed, and optimized a complex
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damlalper&theme=tokyonight" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=damlalper&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
 
+---
 
+## GitHub Streak 
+
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=damlalper&theme=blueberry_duo" />
+   
 ---
 
 ## 🎯 What I’m Exploring
